@@ -1,0 +1,13 @@
+| Main Folder
+|	Datasets
+|		User 1
+		| - foto 1
+		| - foto 2
+		| - …
+|		User 2
+		| - foto 1
+		| - foto 2
+		| - …
+| file_train.py
+| file_main.py
+| file_dataset.json (akan dibuat otomatis)
